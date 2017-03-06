@@ -1,2 +1,2 @@
 # fixins
-Sass mixins and functions used commonly
+Sass mixins and functions commonly used
